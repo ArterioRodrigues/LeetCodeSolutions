@@ -29,7 +29,7 @@ Output: true
 
 ## Success 
 
-* **Runtime:** 123 ms, faster than .<dir style="background-color: #FFFF00"> 75.56%</dir> of C++ online submissions for Contains  Duplicate
+* **Runtime:** 123 ms, faster than .<dir style="color: #FFFF00"> 75.56%</dir> of C++ online submissions for Contains  Duplicate
 
 * **Memory Usage:** 52.2 MB, less than .<dir style="background-color: #FFFF00"> 29.16% </dir>of C++ online submissions for Contains Duplicate.
 
