@@ -1,12 +1,12 @@
 ## Solution
 I came up with the first idea of brute force the code was pretty simple but leet code wanted a faster time 
 
-> **time complexity:** O(n^2)
+> **time complexity:** O(n^2) <br>
 > **Space complexity:** O(1)
 
 As you can see it was very slow so I had to use a hashmap to increase time. At the end
 
-> **time complexity:** O(n)
+> **time complexity:** O(n) <br>
 > **Space complexity:** O(n)
 
 ## Problem 
