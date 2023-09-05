@@ -15,3 +15,9 @@ class Solution:
             res.extend(perms)
             nums.append(n)
         return res
+
+def main():
+    Solution.permute([1,2,3])
+
+if "__main__" == __name__:
+    main()
